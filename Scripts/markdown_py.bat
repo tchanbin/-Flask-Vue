@@ -1,0 +1,1 @@
+@"E:\vueAdmin\Flask-Vue\Scripts\python.exe" "E:\vueAdmin\Flask-Vue\Scripts\markdown_py" %*
